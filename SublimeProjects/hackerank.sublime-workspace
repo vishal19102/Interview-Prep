@@ -1,0 +1,618 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"red",
+				"redJohnuitl"
+			],
+			[
+				"top",
+				"topoutil"
+			],
+			[
+				"ad",
+				"adj"
+			],
+			[
+				"to",
+				"topoutil"
+			],
+			[
+				"IN",
+				"INT_MAX"
+			],
+			[
+				"cout",
+				"countEdge"
+			],
+			[
+				"cou",
+				"cout"
+			],
+			[
+				"sr",
+				"src"
+			],
+			[
+				"des",
+				"desParent"
+			],
+			[
+				"src",
+				"srcParent"
+			],
+			[
+				"out",
+				"outpos"
+			],
+			[
+				"Ed",
+				"Edge"
+			],
+			[
+				"de",
+				"des"
+			],
+			[
+				"we",
+				"weigh"
+			],
+			[
+				"list",
+				"listOfFiles"
+			],
+			[
+				"ter",
+				"treeNode"
+			],
+			[
+				"tre",
+				"treeNode"
+			],
+			[
+				"tree",
+				"treeNode"
+			],
+			[
+				"u",
+				"updateLazy"
+			],
+			[
+				"pat",
+				"patlen"
+			],
+			[
+				"te",
+				"telen"
+			],
+			[
+				"fill",
+				"fillWordHelper"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"prin",
+				"printSolution"
+			],
+			[
+				"s",
+				"solution"
+			],
+			[
+				"maz",
+				"mazeHelper"
+			],
+			[
+				"mza",
+				"maze"
+			],
+			[
+				"print",
+				"printPaths"
+			],
+			[
+				"prit",
+				"printBoard"
+			],
+			[
+				"b",
+				"board"
+			],
+			[
+				"car",
+				"characters"
+			],
+			[
+				"retr",
+				"return"
+			],
+			[
+				"rue",
+				"returnArraysCount"
+			],
+			[
+				"reof",
+				"reformedString"
+			],
+			[
+				"ref",
+				"reformedString"
+			],
+			[
+				"char",
+				"characters"
+			],
+			[
+				"goba",
+				"globalevenindex"
+			],
+			[
+				"go",
+				"globaleven"
+			],
+			[
+				"gl",
+				"globaleven"
+			],
+			[
+				"cont",
+				"count"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"max",
+				"maxG"
+			],
+			[
+				"ora",
+				"orange2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/thunder/Hackerrank/redjohn.cpp",
+			"settings":
+			{
+				"buffer_size": 2081,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Hackerrank/input.txt",
+			"settings":
+			{
+				"buffer_size": 7,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Hackerrank/output.txt",
+			"settings":
+			{
+				"buffer_size": 6,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packac",
+				"Package Control: Install Package"
+			],
+			[
+				"about",
+				"About"
+			],
+			[
+				"Snippet: ",
+				"Snippet: template <typename ${1:_InputIter}>"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"open ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package resou",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"\tcontrol ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/thunder/Hackerrank"
+	],
+	"file_history":
+	[
+		"/home/thunder/CodingBlocks/STL/input.txt",
+		"/home/thunder/CodingBlocks/STL/redjohn.cpp",
+		"/home/thunder/CodingBlocks/STL/Priority_Q.cpp",
+		"/home/thunder/CodingBlocks/input.txt",
+		"/home/thunder/CodingNInjas/Graphs/kruskal.cpp",
+		"/home/thunder/CodingNInjas/Graphs/dfsbfs.cpp",
+		"/home/thunder/CodingNInjas/output.txt",
+		"/home/thunder/CodingNInjas/Graphs/bfs.cpp",
+		"/home/thunder/Desktop/RNNs/videos.py",
+		"/home/thunder/CodingNInjas/StringAlgo/kmp.cpp",
+		"/home/thunder/CodingNInjas/SegmentTree/buildtree.cpp",
+		"/home/thunder/CodingNInjas/SegmentTree/lazyprop.cpp",
+		"/home/thunder/CodingNInjas/Greedy /lottery.cpp",
+		"/home/thunder/CodingNInjas/Greedy /problem.cpp",
+		"/home/thunder/CodingNInjas/Greedy /perimeter.cpp",
+		"/home/thunder/CodingNInjas/Greedy /donut.cpp",
+		"/home/thunder/CodingNInjas/Greedy /cmp.cpp",
+		"/home/thunder/CodingNInjas/Backtracking/crossword.cpp",
+		"/home/thunder/CodingNInjas/Backtracking/ratmaze.cpp",
+		"/home/thunder/CodingNInjas/Backtracking/nqueens.cpp",
+		"/home/thunder/CodingNInjas/Backtracking/output.txt",
+		"/home/thunder/LeetCode/arrayscost.cpp",
+		"/home/thunder/LeetCode/watercontainer.cpp",
+		"/home/thunder/LeetCode/reformed.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/User/cpp.sublime-snippet",
+		"/home/thunder/.config/sublime-text-3/Packages/PackageResourceViewer/Main.sublime-menu",
+		"/home/thunder/LeetCode/longestpalsub.cpp",
+		"/home/thunder/LeetCode/longestsubs.cpp",
+		"/home/thunder/LeetCode/largestsubpalin.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+		"/home/thunder/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/thunder/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/thunder/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/thunder/LeetCode/2sum.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/User/newbuild.sublime-build"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/thunder/Hackerrank/redjohn.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1146.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/home/thunder/Hackerrank/input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/home/thunder/Hackerrank/output.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.651977825781,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 211.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hackerank.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/SublimeProjects/CodingNinjas.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

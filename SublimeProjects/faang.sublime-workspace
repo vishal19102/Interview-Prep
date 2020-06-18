@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"right",
+				"righttsum"
+			],
+			[
+				"righ",
+				"rightcount"
+			],
+			[
+				"lon",
+				"longestconsecutive"
+			],
+			[
+				"vec",
+				"vector<int> "
+			],
+			[
+				"vectr",
+				"vector<string> "
+			],
+			[
+				"vecot",
+				"vector<string> "
+			],
+			[
+				"vector",
+				"vector<int> "
+			],
+			[
+				"INT_",
+				"INT_MAX"
+			],
+			[
+				"uno",
+				"unordered_map\tstandard header (since c++11)"
+			],
+			[
+				"idx2",
+				"idx2n"
+			],
+			[
+				"vectro",
+				"vector<int> "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/thunder/Desktop/InterviewPrep/FAANG/Trees/totalsubtreesum.cpp",
+			"settings":
+			{
+				"buffer_size": 2895,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/InterviewPrep/FAANG/input.txt",
+			"settings":
+			{
+				"buffer_size": 16,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/InterviewPrep/FAANG/output.txt",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mat",
+				"Activate Materialize Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/thunder/Desktop/InterviewPrep/FAANG"
+	],
+	"file_history":
+	[
+		"/home/thunder/Desktop/InterviewPrep/FAANG/DynamicProgramming/minsquares.cpp",
+		"/home/thunder/Desktop/InterviewPrep/FAANG/Graphs/dependentcourses.cpp",
+		"/home/thunder/Desktop/InterviewPrep/FAANG/Graphs/rotten.cpp",
+		"/home/thunder/Desktop/InterviewPrep/FAANG/Sets/consecutive.cpp",
+		"/home/thunder/Desktop/InterviewPrep/FAANG/bitwise/missing.cpp",
+		"/home/thunder/Desktop/InterviewPrep/FAANG/Graphs/killprocess.cpp",
+		"/home/thunder/Desktop/InterviewPrep/FAANG/Graphs/jumptozero.cpp",
+		"/home/thunder/Desktop/InterviewPrep/FAANG/Graphs/bipartite.cpp",
+		"/home/thunder/Desktop/InterviewPrep/FAANG/Graphs/wordladder.cpp",
+		"/home/thunder/Desktop/InterviewPrep/FAANG/Graphs/setfunc.cpp",
+		"/home/thunder/Desktop/InterviewPrep/FAANG/output.txt",
+		"/home/thunder/.config/fusuma/config.yml",
+		"/home/thunder/Desktop/InterviewPrep/LeetCode/Extras/collectballs.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/User/cppcompletion.sublime-completions",
+		"/home/thunder/Desktop/InterviewPrep/LeetCode/Extras/first.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/User/cpp.sublime-snippet",
+		"/home/thunder/LeetCode/first.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/User/c++.sublime-build"
+	],
+	"find":
+	{
+		"height": 173.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\n",
+			"\t\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/thunder/Desktop/InterviewPrep/FAANG/Trees/totalsubtreesum.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 470.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/home/thunder/Desktop/InterviewPrep/FAANG/input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/home/thunder/Desktop/InterviewPrep/FAANG/output.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 173.0
+	},
+	"input":
+	{
+		"height": 173.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.733533878451,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.480329791319,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 55.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "faang.sublime-project",
+	"replace":
+	{
+		"height": 342.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/SublimeProject/leetcode.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
