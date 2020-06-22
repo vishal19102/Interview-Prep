@@ -5,23 +5,7 @@
 		[
 			[
 				"right",
-				"rightptr"
-			],
-			[
-				"create",
-				"CreateTree"
-			],
-			[
-				"max",
-				"maxPathSum"
-			],
-			[
-				"rihg",
-				"rightSideView"
-			],
-			[
-				"left",
-				"leftans"
+				"rightnodes"
 			],
 			[
 				"vector",
@@ -52,43 +36,34 @@
 	"buffers":
 	[
 		{
-			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Trees/addrow.cpp",
+			"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/minaddpara.cpp",
 			"settings":
 			{
-				"buffer_size": 2464,
+				"buffer_size": 1940,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Trees/maxlevel.cpp",
+			"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/bagoftokens.cpp",
 			"settings":
 			{
-				"buffer_size": 2394,
+				"buffer_size": 1465,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Trees/inordersuccessor1.cpp",
+			"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/input.txt",
 			"settings":
 			{
-				"buffer_size": 2636,
+				"buffer_size": 8,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/input.txt",
-			"settings":
-			{
-				"buffer_size": 27,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/output.txt",
+			"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/output.txt",
 			"settings":
 			{
 				"buffer_size": 0,
@@ -96,7 +71,7 @@
 			}
 		}
 	],
-	"build_system": "Packages/User/customc++.sublime-build",
+	"build_system": "",
 	"build_system_choices":
 	[
 		[
@@ -168,21 +143,13 @@
 	},
 	"expanded_folders":
 	[
-		"/home/thunder/Desktop/Interview-Prep/FAANG",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees"
+		"/home/thunder/Desktop/Interview-Prep/LeetCode"
 	],
 	"file_history":
 	[
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/pathsum.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/binarypathmaxsum.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/rightview.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/maxlevel.cpp",
 		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/mergetrees.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/zigzag.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/mirror.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/duplicates.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/totalsubtreesum.cpp",
 		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/connectnodes.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/totalsubtreesum.cpp",
 		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/postpre.cpp",
 		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/prein.cpp",
 		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/lcabt.cpp",
@@ -195,7 +162,7 @@
 	],
 	"find":
 	{
-		"height": 37.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -209,15 +176,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			");\n",
-			"node",
-			"data",
-			"Node",
-			"data",
-			"node",
-			"Node",
-			"font",
-			"postorder"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -225,13 +183,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"Node",
-			"val",
-			"TreeNode",
-			"val",
-			"TreeNode",
-			"node",
-			"preorder"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -242,24 +193,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Trees/addrow.cpp",
+					"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/minaddpara.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2464,
+						"buffer_size": 1940,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1009,
-								1009
+								1428,
+								1428
 							]
 						],
 						"settings":
@@ -267,27 +218,27 @@
 							"syntax": "Packages/C++/C++.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 650.0,
+						"translation.y": 1177.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Trees/maxlevel.cpp",
+					"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/bagoftokens.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2394,
+						"buffer_size": 1465,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1010,
-								1010
+								1007,
+								1007
 							]
 						],
 						"settings":
@@ -295,36 +246,41 @@
 							"syntax": "Packages/C++/C++.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1014.0,
+						"translation.y": 624.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
 					"buffer": 2,
-					"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Trees/inordersuccessor1.cpp",
+					"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/input.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2636,
+						"buffer_size": 8,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1556,
-								1556
+								8,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1700.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -338,41 +294,7 @@
 			[
 				{
 					"buffer": 3,
-					"file": "/home/thunder/Desktop/Interview-Prep/FAANG/input.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 27,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								27,
-								27
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 4,
-					"file": "/home/thunder/Desktop/Interview-Prep/FAANG/output.txt",
+					"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/output.txt",
 					"semi_transient": false,
 					"settings":
 					{
@@ -395,7 +317,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -403,7 +325,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 37.0
+		"height": 35.0
 	},
 	"input":
 	{
@@ -435,7 +357,7 @@
 		"cols":
 		[
 			0.0,
-			0.70072998815,
+			0.670420273789,
 			1.0
 		],
 		"rows":
@@ -448,17 +370,17 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 210.0
+		"height": 202.0
 	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
 	"pinned_build_system": "Packages/User/customc++.sublime-build",
-	"project": "faang.sublime-project",
+	"project": "leetcode.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -476,6 +398,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Desktop/Interview-Prep/SublimeProjects/faang.sublime-project"
+			]
 		],
 		"width": 380.0
 	},
@@ -516,7 +442,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 255.0,
 	"status_bar_visible": true,
 	"template_settings":
