@@ -73,7 +73,7 @@
 			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Trees/inordersuccessor1.cpp",
 			"settings":
 			{
-				"buffer_size": 2636,
+				"buffer_size": 2596,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -82,7 +82,7 @@
 			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/input.txt",
 			"settings":
 			{
-				"buffer_size": 27,
+				"buffer_size": 28,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -286,8 +286,8 @@
 						"selection":
 						[
 							[
-								1010,
-								1010
+								1527,
+								1527
 							]
 						],
 						"settings":
@@ -295,10 +295,10 @@
 							"syntax": "Packages/C++/C++.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1014.0,
+						"translation.y": 2808.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -307,15 +307,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2636,
+						"buffer_size": 2596,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1556,
-								1556
+								2051,
+								2051
 							]
 						],
 						"settings":
@@ -324,10 +324,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1700.0,
+						"translation.y": 2355.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -342,15 +342,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 27,
+						"buffer_size": 28,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								27,
-								27
+								28,
+								28
 							]
 						],
 						"settings":
@@ -361,7 +361,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -435,7 +435,7 @@
 		"cols":
 		[
 			0.0,
-			0.70072998815,
+			0.655061704052,
 			1.0
 		],
 		"rows":
@@ -448,7 +448,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 210.0
+		"height": 236.0
 	},
 	"output.find_results":
 	{
@@ -476,6 +476,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Desktop/Interview-Prep/SublimeProjects/leetcode.sublime-project"
+			]
 		],
 		"width": 380.0
 	},
@@ -488,7 +492,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 		"last_automatic_layout":

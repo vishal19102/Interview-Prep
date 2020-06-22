@@ -94,19 +94,23 @@ return root->data;
 
 }
 
-int inorderSuccessor(node* root ,int val ,node* parent ,node* grandparent ) { 
+int inorderSuccessor(node* root ,int val ,int &currentSucc) { 
 
 	if(root == NULL ) return -1 ; 
 
 	if(root->data == val ){
 		if( root->right != NULL  ) return minTree(root->right);
-		else if ( root->right == NULL && parent->right == root ) return grandparent->data;
-		else if ( root->right == NULL && parent->left == root ) return parent->data;
+		else{
+			if(currentSucc > val and currentSucc < root->data ){
+				currentSucc = root->data;
+				return currentSucc;
+			}
+		}
 
 	}
 	else{
-		if(root->data > val ) return inorderSuccessor(root->left ,val , root , parent );
-		else return inorderSuccessor(root->right , val  , root , parent);
+		if(root->data > val ) return inorderSuccessor(root->left ,val , currentSucc) ;
+		else return inorderSuccessor(root->right , val ,root->right->data) ;
 	}
 	return -1 ;
 }
@@ -123,6 +127,6 @@ int main(){
     node* root = CreateTree();
     int val ;
     cin>>val;
-    inorderSuccessor(root , val , NULL , NULL ) ;
+    cout<<(inorderSuccessor(root , val , root->data) )<<endl;
     return 0;
 }
