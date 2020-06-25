@@ -4,14 +4,6 @@
 		"selected_items":
 		[
 			[
-				"vec",
-				"vector<char> "
-			],
-			[
-				"INT_M",
-				"INT_MAX"
-			],
-			[
 				"max",
 				"maxSize"
 			],
@@ -62,43 +54,39 @@
 			[
 				"Create",
 				"CreateTree"
+			],
+			[
+				"vec",
+				"vector<int> "
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/TopInterviewQuestions/perfectsqaure.cpp",
+			"file": "/home/thunder/Desktop/Interview-Prep/CodingBlocks/3dDP/maxxor.cpp",
 			"settings":
 			{
-				"buffer_size": 1769,
+				"buffer_size": 2509,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/TopInterviewQuestions/findword.cpp",
+			"file": "/home/thunder/Desktop/Interview-Prep/CodingBlocks/input.txt",
 			"settings":
 			{
-				"buffer_size": 1592,
+				"buffer_size": 67,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/input.txt",
+			"file": "/home/thunder/Desktop/Interview-Prep/CodingBlocks/output.txt",
 			"settings":
 			{
-				"buffer_size": 36,
+				"buffer_size": 22,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/output.txt",
-			"settings":
-			{
-				"buffer_size": 13,
 				"line_ending": "Unix"
 			}
 		}
@@ -175,19 +163,11 @@
 	},
 	"expanded_folders":
 	[
-		"/home/thunder/Desktop/Interview-Prep/LeetCode"
+		"/home/thunder/Desktop/Interview-Prep/CodingBlocks",
+		"/home/thunder/Desktop/Interview-Prep/CodingBlocks/3dDP"
 	],
 	"file_history":
 	[
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/STACKS/removeduplicates.cpp",
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/STACKS/customstack.cpp",
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/burger.cpp",
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/wiggleseq.cpp",
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/lemonadechange.cpp",
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/grouppeople.cpp",
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/cinemaseats.cpp",
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/advantshuff.cpp",
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/DP/countstrings.cpp",
 		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/advantageshuffle.cpp",
 		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/minaddpara.cpp",
 		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/bagoftokens.cpp",
@@ -222,10 +202,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"1",
-			"5",
-			"1",
-			"void"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -243,24 +219,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/TopInterviewQuestions/perfectsqaure.cpp",
+					"file": "/home/thunder/Desktop/Interview-Prep/CodingBlocks/3dDP/maxxor.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1769,
+						"buffer_size": 2509,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1329,
-								1329
+								1671,
+								1671
 							]
 						],
 						"settings":
@@ -268,35 +244,7 @@
 							"syntax": "Packages/C++/C++.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1196.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/TopInterviewQuestions/findword.cpp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1592,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1105,
-								1105
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1118.0,
+						"translation.y": 2496.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -309,20 +257,54 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
-					"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/input.txt",
+					"buffer": 1,
+					"file": "/home/thunder/Desktop/Interview-Prep/CodingBlocks/input.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 36,
+						"buffer_size": 67,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								36,
-								36
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/home/thunder/Desktop/Interview-Prep/CodingBlocks/output.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
 							]
 						],
 						"settings":
@@ -334,40 +316,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 3,
-					"file": "/home/thunder/Desktop/Interview-Prep/LeetCode/output.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								13,
-								13
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -407,7 +355,7 @@
 		"cols":
 		[
 			0.0,
-			0.694210132205,
+			0.657808949478,
 			1.0
 		],
 		"rows":
@@ -420,14 +368,14 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 192.0
+		"height": 197.0
 	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
 	"pinned_build_system": "Packages/User/customc++.sublime-build",
-	"project": "leetcode.sublime-project",
+	"project": "codingblocks.sublime-project",
 	"replace":
 	{
 		"height": 70.0
@@ -493,7 +441,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 195.0,
+	"side_bar_width": 115.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

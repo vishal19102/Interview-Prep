@@ -38,47 +38,25 @@ using namespace std;
 #define mod 1000000007
 typedef pair<string,int> pp;
 
-int dp[11][11][11][11];
+void totsunny(vector<int> &buildings){
+	int ans = 0 ;
+	int n = buildings.size();
 
-int countbits(string a) {
-	int ans = 0;
-	for(auto i: a )
-		if(i=='1')
+	int crrmax = 0;
+	for(int i = 0 ; i < n ; i++ ) {
+		if(crrmax <= buildings[i]){
+			trace(buildings[i]);
 			ans++;
-	return ans;
+			crrmax = buildings[i];
+		}
+	}
+	cout<<(ans)<<endl;
+	
+	return ;
 }
 
-int maxpossible(int pos , int ca, int cb,int cc){
 
 
-	if(pos < 0 && ca==0 && cb==0 && cc==0 )
-		return 0 ;
-
-	if(pos < 0 and (ca != 0 or cb != 0 or cc != 0) )
-		return INT_MIN;
-
-	if(dp[pos][ca][cb][cc]!=-1)
-		return dp[pos][ca][cb][cc];
-
-	int ans = 0;
-
-	int op1 = 0 ,op2 =  0 , op3 = 0  , op4  = 0; 
-
-	if(ca > 0 )
-		 op1 = maxpossible(pos-1 , ca-1,cb,cc);
-	if(cb > 0 )
-		 op2 = maxpossible(pos-1 , ca,cb-1,cc);
-	if(cc > 0 )
-		 op3 = maxpossible(pos-1 , ca,cb,cc-1);
-	if(ca > 0 && cb > 0 && cc > 0 )
-		op4 = maxpossible(pos-1 , ca-1,cb-1,cc-1);
-
-	ans =  max ( max(op1,max(op2,op3)) , op4 )  ;
-
-	ans = ans  + pow(2 , (pos));
-
-	return dp[pos][ca][cb][cc] = ans ;
-}
 
 int main(){
 
@@ -91,32 +69,11 @@ int main(){
     #endif
     cin>>t;
     while(t--){
-	      string a, b, c;
-	      cin>>a>>b>>c;
-	      int ca = countbits(a);
-	      int cb = countbits(b);
-	      int cc = countbits(c);
-
-	      memset(dp , -1 ,sizeof(dp));
-
-	      int n =  maxpossible(9 , ca,cb,cc ) ;
-
-
-		  int binaryNum[10];
-
-		    int i = 0; 
-			    while (n > 0) { 
-			  
-			        binaryNum[i] = n % 2; 
-			        n = n / 2; 
-			        i++; 
-			    }
-			       for (int j = i - 1; j >= 0; j--) 
-		        		cout << binaryNum[j]; 
-
-			    cout<<endl;
-
-	    }
-
+   		int n ;
+   		cin>>n;
+   		vector<int> buildings ( n ) ; 
+   		for(int i = 0 ; i < n ; i++ ) cin>>buildings[i];
+   		totsunny(buildings);
+    }
     return 0;
 }

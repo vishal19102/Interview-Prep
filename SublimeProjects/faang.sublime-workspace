@@ -4,16 +4,52 @@
 		"selected_items":
 		[
 			[
+				"com",
+				"comparetor"
+			],
+			[
+				"timi",
+				"timings"
+			],
+			[
+				"vec",
+				"vector<pair<int,int>> "
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"word",
+				"word2"
+			],
+			[
+				"max",
+				"maxcurr"
+			],
+			[
+				"freq",
+				"freqarray"
+			],
+			[
+				"veco",
+				"vector<int> "
+			],
+			[
+				"veoc",
+				"vector<string> "
+			],
+			[
+				"map",
+				"map<int,int> "
+			],
+			[
 				"right",
 				"rightptr"
 			],
 			[
 				"create",
 				"CreateTree"
-			],
-			[
-				"max",
-				"maxPathSum"
 			],
 			[
 				"rihg",
@@ -42,38 +78,25 @@
 			[
 				"Create",
 				"CreateTree"
-			],
-			[
-				"vec",
-				"vector<int> "
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Trees/addrow.cpp",
+			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/countzeros.cpp",
 			"settings":
 			{
-				"buffer_size": 2464,
+				"buffer_size": 1405,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Trees/maxlevel.cpp",
+			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/attendmeating.cpp",
 			"settings":
 			{
-				"buffer_size": 2394,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Trees/inordersuccessor1.cpp",
-			"settings":
-			{
-				"buffer_size": 2596,
+				"buffer_size": 1777,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -82,7 +105,7 @@
 			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/input.txt",
 			"settings":
 			{
-				"buffer_size": 28,
+				"buffer_size": 18,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -91,7 +114,7 @@
 			"file": "/home/thunder/Desktop/Interview-Prep/FAANG/output.txt",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 6,
 				"line_ending": "Unix"
 			}
 		}
@@ -163,20 +186,40 @@
 		"show_minimap": false,
 		"show_open_files": false,
 		"show_tabs": false,
-		"side_bar_visible": false,
+		"side_bar_visible": true,
 		"status_bar_visible": false
 	},
 	"expanded_folders":
 	[
-		"/home/thunder/Desktop/Interview-Prep/FAANG",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees"
+		"/home/thunder/Desktop/Interview-Prep/FAANG"
 	],
 	"file_history":
 	[
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/countzeros.cppc",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/sunnybuildings.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/mostwater.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/targerzero.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/maxsumsbuarray.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/distributecandy.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/DynamicProgramming/chori.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/mxalengthsubar.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/trail.cpp",
+		"/home/thunder/.config/fusuma/config.yml",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/worddistance.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/kmostfrequent.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/longestsubstring.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/anagram.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/multiplesubarray.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/movezeros.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/duplicates2.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/inordersuccessor1.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/maxlevel.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/addrow.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/anagramstogether.cppc",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/output.txt",
 		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/pathsum.cpp",
 		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/binarypathmaxsum.cpp",
 		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/rightview.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/maxlevel.cpp",
 		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/mergetrees.cpp",
 		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/zigzag.cpp",
 		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/mirror.cpp",
@@ -210,6 +253,9 @@
 		"find_history":
 		[
 			");\n",
+			"\";\n",
+			" \n",
+			");\n",
 			"node",
 			"data",
 			"Node",
@@ -242,24 +288,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Trees/addrow.cpp",
+					"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/countzeros.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2464,
+						"buffer_size": 1405,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1009,
-								1009
+								1405,
+								1405
 							]
 						],
 						"settings":
@@ -267,64 +313,69 @@
 							"syntax": "Packages/C++/C++.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 650.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Trees/maxlevel.cpp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2394,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1527,
-								1527
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2808.0,
+						"translation.y": 1404.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Trees/inordersuccessor1.cpp",
+					"buffer": 1,
+					"file": "/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/attendmeating.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2596,
+						"buffer_size": 1777,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2051,
-								2051
+								1337,
+								1337
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/C++/C++.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2355.0,
+						"translation.y": 1820.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/home/thunder/Desktop/Interview-Prep/FAANG/input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -338,53 +389,19 @@
 			[
 				{
 					"buffer": 3,
-					"file": "/home/thunder/Desktop/Interview-Prep/FAANG/input.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 28,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								28,
-								28
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 4,
 					"file": "/home/thunder/Desktop/Interview-Prep/FAANG/output.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 6,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2,
+								2
 							]
 						],
 						"settings":
@@ -395,7 +412,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -435,7 +452,7 @@
 		"cols":
 		[
 			0.0,
-			0.655061704052,
+			0.717789920218,
 			1.0
 		],
 		"rows":
@@ -448,7 +465,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 236.0
+		"height": 57.0
 	},
 	"output.find_results":
 	{
@@ -492,7 +509,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 		"last_automatic_layout":
@@ -520,8 +537,8 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 255.0,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
