@@ -4,56 +4,16 @@
 		"selected_items":
 		[
 			[
+				"spira",
+				"spiralOrder"
+			],
+			[
+				"veco",
+				"vector<int> "
+			],
+			[
 				"max",
-				"maxSize"
-			],
-			[
-				"chee",
-				"cheese-1"
-			],
-			[
-				"che",
-				"cheeseSlices"
-			],
-			[
-				"return",
-				"returnchange"
-			],
-			[
-				"chang",
-				"changecount"
-			],
-			[
-				"grop",
-				"groupSizes"
-			],
-			[
-				"map",
-				"map<int,int> "
-			],
-			[
-				"right",
-				"rightnodes"
-			],
-			[
-				"vector",
-				"vector<int> "
-			],
-			[
-				"vecto",
-				"vector<int> "
-			],
-			[
-				"lca",
-				"lcaright"
-			],
-			[
-				"node",
-				"node1"
-			],
-			[
-				"Create",
-				"CreateTree"
+				"maxLength"
 			],
 			[
 				"vec",
@@ -64,10 +24,10 @@
 	"buffers":
 	[
 		{
-			"file": "/home/thunder/Desktop/Interview-Prep/CodingBlocks/3dDP/maxxor.cpp",
+			"file": "/home/thunder/Desktop/Interview-Prep/CodingBlocks/Graphs/dagcnt2.cpp",
 			"settings":
 			{
-				"buffer_size": 2509,
+				"buffer_size": 2298,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -76,7 +36,7 @@
 			"file": "/home/thunder/Desktop/Interview-Prep/CodingBlocks/input.txt",
 			"settings":
 			{
-				"buffer_size": 67,
+				"buffer_size": 71,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -85,15 +45,38 @@
 			"file": "/home/thunder/Desktop/Interview-Prep/CodingBlocks/output.txt",
 			"settings":
 			{
-				"buffer_size": 22,
-				"encoding": "UTF-8",
+				"buffer_size": 37,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/User/customc++.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/customc++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/customc++.sublime-build",
+					"Run in Terminal"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
 		[
 			[
 				[
@@ -118,30 +101,6 @@
 		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"mater",
-				"Activate Materialize Theme"
-			],
-			[
-				"instal",
-				"Package Control: Install Package"
-			],
-			[
-				"prefere",
-				"Preferences: Settings – Syntax Specific"
-			],
-			[
-				"setting",
-				"Preferences: Package Control Settings – Default"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"install ",
-				"Install Package Control"
-			]
 		],
 		"width": 0.0
 	},
@@ -163,32 +122,19 @@
 	},
 	"expanded_folders":
 	[
-		"/home/thunder/Desktop/Interview-Prep/CodingBlocks",
-		"/home/thunder/Desktop/Interview-Prep/CodingBlocks/3dDP"
+		"/home/thunder/Desktop/Interview-Prep/CodingBlocks"
 	],
 	"file_history":
 	[
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/advantageshuffle.cpp",
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/minaddpara.cpp",
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/bagoftokens.cpp",
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/reorganizestrings.cpp",
-		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/reducearray.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/mergetrees.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/connectnodes.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/totalsubtreesum.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/postpre.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/prein.cpp",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/lcabt.cpp",
-		"/home/thunder/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
-		"/home/thunder/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
-		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/lca.cpp",
-		"/home/thunder/.config/sublime-text-3/Packages/User/cppcompletions..sublime-completions",
-		"/home/thunder/.config/sublime-text-3/Packages/User/cpp.sublime-snippet",
-		"/home/thunder/.config/sublime-text-3/Packages/User/customc++.sublime-build"
+		"/home/thunder/Desktop/Interview-Prep/AfterAcademy/kpairs.cpp",
+		"/home/thunder/Desktop/Interview-Prep/AfterAcademy/parttionsum.cpp",
+		"/home/thunder/Desktop/Interview-Prep/AfterAcademy/largestsubarray.cpp",
+		"/home/thunder/Desktop/Interview-Prep/AfterAcademy/bstl.cpp",
+		"/home/thunder/Desktop/Interview-Prep/AfterAcademy/ngr.cpp"
 	],
 	"find":
 	{
-		"height": 37.0
+		"height": 0.0
 	},
 	"find_in_files":
 	{
@@ -224,27 +170,29 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/home/thunder/Desktop/Interview-Prep/CodingBlocks/3dDP/maxxor.cpp",
+					"file": "/home/thunder/Desktop/Interview-Prep/CodingBlocks/Graphs/dagcnt2.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2509,
+						"buffer_size": 2298,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1671,
-								1671
+								1097,
+								1097
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++/C++.sublime-syntax"
+							"auto_name": "",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2496.0,
+						"translation.y": 1008.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -262,15 +210,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 67,
+						"buffer_size": 71,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								56,
-								56
+								71,
+								71
 							]
 						],
 						"settings":
@@ -296,15 +244,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 22,
+						"buffer_size": 37,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								22,
-								22
+								37,
+								37
 							]
 						],
 						"settings":
@@ -323,11 +271,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 37.0
+		"height": 0.0
 	},
 	"input":
 	{
-		"height": 75.0
+		"height": 73.0
 	},
 	"layout":
 	{
@@ -355,7 +303,7 @@
 		"cols":
 		[
 			0.0,
-			0.657808949478,
+			0.741946602713,
 			1.0
 		],
 		"rows":
@@ -366,9 +314,13 @@
 		]
 	},
 	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
 	"output.exec":
 	{
-		"height": 197.0
+		"height": 116.0
 	},
 	"output.find_results":
 	{
@@ -378,7 +330,7 @@
 	"project": "codingblocks.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 0.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -398,7 +350,7 @@
 		[
 			[
 				"",
-				"~/Desktop/Interview-Prep/SublimeProjects/faang.sublime-project"
+				"~/Desktop/Interview-Prep/SublimeProjects/companies.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -440,8 +392,8 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 115.0,
+	"side_bar_visible": false,
+	"side_bar_width": 191.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

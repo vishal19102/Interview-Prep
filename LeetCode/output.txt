@@ -1,1 +1,1 @@
-str : ABCCED
+canJump(nums) : 0

@@ -1,0 +1,694 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bott",
+				"bottomUpLCS"
+			],
+			[
+				"max",
+				"maxelem"
+			],
+			[
+				"boar",
+				"boards"
+			],
+			[
+				"ve",
+				"vector<int> "
+			],
+			[
+				"dist",
+				"distances"
+			],
+			[
+				"vec",
+				"vector<int> "
+			],
+			[
+				"peal",
+				"peakEle"
+			],
+			[
+				"peakE",
+				"peakEle"
+			],
+			[
+				"new",
+				"newY"
+			],
+			[
+				"post",
+				"post"
+			],
+			[
+				"inRd",
+				"inOrder"
+			],
+			[
+				"trave",
+				"traver2"
+			],
+			[
+				"traver",
+				"traver2"
+			],
+			[
+				"right",
+				"rightTree"
+			],
+			[
+				"left",
+				"leftTree"
+			],
+			[
+				"dia",
+				"diaMeterTree"
+			],
+			[
+				"freq",
+				"freqSort"
+			],
+			[
+				"fre",
+				"freqMe"
+			],
+			[
+				"vector",
+				"vector<int> "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/majority.cpp",
+			"settings":
+			{
+				"buffer_size": 1782,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/largestzeroone.cpp",
+			"settings":
+			{
+				"buffer_size": 1795,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/rearrangealternate.cpp",
+			"settings":
+			{
+				"buffer_size": 1756,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/minpalindrome.cpp",
+			"settings":
+			{
+				"buffer_size": 1980,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/MustDo/Backtracking/nqueens.cpp",
+			"settings":
+			{
+				"buffer_size": 2611,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/MustDo/input.txt",
+			"settings":
+			{
+				"buffer_size": 5,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/MustDo/output.txt",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/customc++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/customc++.sublime-build",
+					"Run in Terminal"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/customc++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/customc++.sublime-build",
+					"Run in Terminal"
+				]
+			],
+			[
+				"Packages/User/customc++.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rel",
+				"Project: Refresh Folders"
+			],
+			[
+				"defa",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"the",
+				"Activate Materialize Theme"
+			],
+			[
+				"use ",
+				"UI: Select Theme"
+			],
+			[
+				"remvoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Activate Materialize Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 265.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/thunder/Desktop/Interview-Prep/MustDo"
+	],
+	"file_history":
+	[
+		"/home/thunder/Desktop/Interview-Prep/MustDo/output.txt",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/output.txt",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/isSubTree.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/trie.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/maxintervals.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/User/cppcompletions.sublime-completions",
+		"/home/thunder/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/snakeladder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/paircubecount.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/goldpots.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/preorder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/mergesort.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/dijikstra.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/eq.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/pathexists.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/removeduplicates.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/diamaterbinarytree.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/sortfreq.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/repunits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/peakelement.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/winnerelection.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/heapsort.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/postinorder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/rightview.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/binarybst.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/inorder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/totalSetbits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/mergesortlinkedlist.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/primebits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/klargest.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/equilibrium.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/leaders.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/majority.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								794,
+								794
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/largestzeroone.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1205,
+								1205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1152.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/rearrangealternate.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1395,
+								1395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 982.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/minpalindrome.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1171,
+								1171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 857.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/thunder/Desktop/Interview-Prep/MustDo/Backtracking/nqueens.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2347,
+								2347
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2280.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/home/thunder/Desktop/Interview-Prep/MustDo/input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "/home/thunder/Desktop/Interview-Prep/MustDo/output.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.643790702616,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/customc++.sublime-build",
+	"project": "mustdo.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Interview-Prep/SublimeProjects/amazonsde.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

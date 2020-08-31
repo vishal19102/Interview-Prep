@@ -1,0 +1,1022 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ve",
+				"vector<int> "
+			],
+			[
+				"vec",
+				"vector<int> "
+			],
+			[
+				"new",
+				"newst"
+			],
+			[
+				"right",
+				"rightAns"
+			],
+			[
+				"pos",
+				"posY"
+			],
+			[
+				"righ",
+				"rightAns"
+			],
+			[
+				"lef",
+				"leftAns"
+			],
+			[
+				"pea",
+				"peak"
+			],
+			[
+				"buy",
+				"buyIndex"
+			],
+			[
+				"sell",
+				"sellIndex"
+			],
+			[
+				"bu",
+				"buyIndex"
+			],
+			[
+				"v",
+				"vector<vector<int>> "
+			],
+			[
+				"max",
+				"maxProfit"
+			],
+			[
+				"riht",
+				"right"
+			],
+			[
+				"get",
+				"getBalance"
+			],
+			[
+				"left",
+				"leftHeight"
+			],
+			[
+				"rigth",
+				"rightRotate"
+			],
+			[
+				"second",
+				"secondNode"
+			],
+			[
+				"ad",
+				"adj"
+			],
+			[
+				"max_s",
+				"max_sb_sum"
+			],
+			[
+				"mx",
+				"max_so_far"
+			],
+			[
+				"max_e",
+				"max_elem"
+			],
+			[
+				"we",
+				"weight"
+			],
+			[
+				"edge",
+				"edgeList"
+			],
+			[
+				"visi",
+				"visited"
+			],
+			[
+				"inorder",
+				"inorder2"
+			],
+			[
+				"inord",
+				"inorder1"
+			],
+			[
+				"num",
+				"numTrees"
+			],
+			[
+				"inrd",
+				"inorder"
+			],
+			[
+				"kth",
+				"KthSmallestElement"
+			],
+			[
+				"dist",
+				"distanceParent"
+			],
+			[
+				"node",
+				"nodeK"
+			],
+			[
+				"ri",
+				"rightans"
+			],
+			[
+				"Node",
+				"NodeInfo"
+			],
+			[
+				"seco",
+				"secondelem"
+			],
+			[
+				"freq",
+				"freqIndex"
+			],
+			[
+				"boar",
+				"boards"
+			],
+			[
+				"peal",
+				"peakEle"
+			],
+			[
+				"peakE",
+				"peakEle"
+			],
+			[
+				"post",
+				"post"
+			],
+			[
+				"inRd",
+				"inOrder"
+			],
+			[
+				"trave",
+				"traver2"
+			],
+			[
+				"traver",
+				"traver2"
+			],
+			[
+				"dia",
+				"diaMeterTree"
+			],
+			[
+				"fre",
+				"freqMe"
+			],
+			[
+				"vector",
+				"vector<int> "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/stockbuysell.cpp",
+			"settings":
+			{
+				"buffer_size": 1740,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/wordbreak.cpp",
+			"settings":
+			{
+				"buffer_size": 2551,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/wildcard.cpp",
+			"settings":
+			{
+				"buffer_size": 1641,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/eggdropping.cpp",
+			"settings":
+			{
+				"buffer_size": 453,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/maxoptimal.cpp",
+			"settings":
+			{
+				"buffer_size": 1063,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Matrix/spiral.cpp",
+			"settings":
+			{
+				"buffer_size": 1872,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Backtracking/ratmaze.cpp",
+			"settings":
+			{
+				"buffer_size": 2406,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/TestSeries/test42.cpp",
+			"settings":
+			{
+				"buffer_size": 1619,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/input.txt",
+			"settings":
+			{
+				"buffer_size": 39,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/output.txt",
+			"settings":
+			{
+				"buffer_size": 2,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/customc++.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/customc++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/customc++.sublime-build",
+					"Run in Terminal"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/customc++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/customc++.sublime-build",
+					"Run in Terminal"
+				]
+			],
+			[
+				"Packages/User/customc++.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rel",
+				"Project: Refresh Folders"
+			],
+			[
+				"defa",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"the",
+				"Activate Materialize Theme"
+			],
+			[
+				"use ",
+				"UI: Select Theme"
+			],
+			[
+				"remvoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Activate Materialize Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 265.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees"
+	],
+	"file_history":
+	[
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/burntree.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Graphs/mincostpath.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/shortestsub.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/LCS.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/LIS.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/minjumps.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/maxoptimal.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/wordbreak.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/countways.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/maxlength.cpp",
+		"/home/thunder/Desktop/RevisionQuestions/advantshuff.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Arrays/maxindex.cpp",
+		"/home/thunder/Desktop/RevisionQuestions/wordladder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/attendmeating.cpp",
+		"/home/thunder/Desktop/Interview-Prep/InterviewBit/Arrays/minsum3.cpp",
+		"/home/thunder/Desktop/Interview-Prep/InterviewBit/Arrays/minstepsgrid.cpp",
+		"/home/thunder/Desktop/Interview-Prep/InterviewBit/Arrays/greaterp.cpp",
+		"/home/thunder/Desktop/Interview-Prep/InterviewBit/Adobe/combinations.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/BST/fixingnodes.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Graphs/aliendictionary.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/numberturns.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/maxleafsum.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/BST/avltreeinsertion.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/BST/avltreedeletion.cpp",
+		"/home/thunder/Desktop/Interview-Prep/AfterAcademy/canfinish.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/countinversions.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Backtracking/nqueens.cpp",
+		"/home/thunder/Desktop/Interview-Prep/InterviewBit/Adobe/grid.cpp",
+		"/home/thunder/Desktop/Interview-Prep/LeetCode/STACKS/removeduplicates.cpp",
+		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/bagoftokens.cpp",
+		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/advantshuff.cpp",
+		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/cinemaseats.cpp",
+		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/grouppeople.cpp",
+		"/home/thunder/Desktop/Interview-Prep/InterviewBit/Adobe/antidigonals.cpp",
+		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/wiggleseq.cpp",
+		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/minaddpara.cpp",
+		"/home/thunder/Desktop/Interview-Prep/LeetCode/GreedyPatterns/lemonadechange.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Backtracking/ksubsets.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/nodesatkdistance.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Arrays/mergeover.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/LinkedList/deletenodes.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/LinkedList/reversegrps.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/LinkedList/deletekeys.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Sorting/kclosest.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Arrays/maxcircular.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Arrays/kadanes.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Arrays/trappingrainwater.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/output.txt",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/BST/largestbst.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Heaps/nearlysorted.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Graphs/minspanning.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Graphs/isbridge.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Graphs/levelnodes.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Graphs/ifPathExists.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Graphs/mothervertex.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/TestSeries/factors.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/LinkedList/deleteadjacent.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Strings/countdistincts.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/lca.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/lcabst.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Strings/minwindowsubstring.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Graphs/tarjansprac.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Graphs/scc.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Graphs/tarjans.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Strings/badwords.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/TestSeries/algoexperts.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/tilttree.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Heaps/reorganizestrings.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/BST/mergebsts.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/BST/closesttobst.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/BST/kthsmallest.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/BST/swapnodes.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/BST/greaterbst.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/BST/uniquebst.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/BST/targetsumpair.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/binarytreeDLL.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/binarytreeCDLL.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Heaps/mincostropes.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/printnodesk.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/longestsub.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/maxwidth.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/levelline.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/sumtree.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/mirrortree.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/leaves.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/oddeven.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/levelorder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Arrays/wavearray.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/fullbinarytree.cpp",
+		"/home/thunder/Desktop/Interview-Prep/verticalsum.cpp",
+		"/home/thunder/Desktop/Interview-Prep/isomorphic.cpp",
+		"/home/thunder/Desktop/Interview-Prep/constructree.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Trees/issymmetric.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Arrays/removedupprimes.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Arrays/minimumdistance.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Arrays/replacezeros.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Arrays/maxsumconf.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Arrays/sub3seq.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Arrays/maxpathsum.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/sortfreqsmall.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/sortfreq.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/longestuniquesubstring.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/output.txt",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/isSubTree.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/trie.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/maxintervals.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/User/cppcompletions.sublime-completions",
+		"/home/thunder/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/snakeladder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/paircubecount.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/goldpots.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/preorder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/mergesort.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/dijikstra.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/eq.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/pathexists.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/removeduplicates.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/diamaterbinarytree.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/repunits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/peakelement.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/winnerelection.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/heapsort.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/postinorder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/rightview.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/binarybst.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/inorder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/totalSetbits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/mergesortlinkedlist.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rank",
+			"val",
+			"TreeNode"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rankN",
+			"data",
+			"Node"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/stockbuysell.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								809,
+								809
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 727.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/wordbreak.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								846,
+								846
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 528.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/wildcard.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								812,
+								812
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/eggdropping.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/DynamicProgramming/maxoptimal.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								899,
+								899
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 571.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Matrix/spiral.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1145,
+								1145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/Backtracking/ratmaze.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2327,
+								2327
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1800.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/TestSeries/test42.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "/home/thunder/Desktop/Interview-Prep/GFGAMAZON/output.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.711674118042,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.248395205697,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/customc++.sublime-build",
+	"project": "amazonsde.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Interview-Prep/SublimeProjects/gfg.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

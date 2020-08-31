@@ -1,0 +1,780 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"minCoins"
+			],
+			[
+				"vec",
+				"vector<vector<int>> "
+			],
+			[
+				"vc",
+				"vector<int> "
+			],
+			[
+				"v",
+				"vector<vector<int>> "
+			],
+			[
+				"ve",
+				"vector<bool> "
+			],
+			[
+				"vecc",
+				"vector<vector<int>> "
+			],
+			[
+				"left",
+				"leftAnsT"
+			],
+			[
+				"right",
+				"rightAnsT"
+			],
+			[
+				"leftA",
+				"leftAnsF"
+			],
+			[
+				"lef",
+				"leftAnsT"
+			],
+			[
+				"righ",
+				"rightAnsT"
+			],
+			[
+				"for",
+				"for(int ${1:i}=${2:0}; ${1:i}<${3:n}; ${1:i}++) {$4}"
+			],
+			[
+				"INT_",
+				"INT_MAX"
+			],
+			[
+				"new",
+				"newposy"
+			],
+			[
+				"newpo",
+				"newposx"
+			],
+			[
+				"tem",
+				"tempID"
+			],
+			[
+				"has",
+				"hasPos"
+			],
+			[
+				"freq",
+				"freqIndex"
+			],
+			[
+				"boar",
+				"boards"
+			],
+			[
+				"dist",
+				"distances"
+			],
+			[
+				"peal",
+				"peakEle"
+			],
+			[
+				"peakE",
+				"peakEle"
+			],
+			[
+				"post",
+				"post"
+			],
+			[
+				"inRd",
+				"inOrder"
+			],
+			[
+				"trave",
+				"traver2"
+			],
+			[
+				"traver",
+				"traver2"
+			],
+			[
+				"dia",
+				"diaMeterTree"
+			],
+			[
+				"max",
+				"maxM"
+			],
+			[
+				"fre",
+				"freqMe"
+			],
+			[
+				"vector",
+				"vector<int> "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/snakeladder.cpp",
+			"settings":
+			{
+				"buffer_size": 2217,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/medianinstream.cpp",
+			"settings":
+			{
+				"buffer_size": 1278,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/sum4.cpp",
+			"settings":
+			{
+				"buffer_size": 2139,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/is3multiple.cpp",
+			"settings":
+			{
+				"buffer_size": 1485,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Oracle/mincoins.cpp",
+			"settings":
+			{
+				"buffer_size": 1822,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/input.txt",
+			"settings":
+			{
+				"buffer_size": 145,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/output.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/customc++.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/customc++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/customc++.sublime-build",
+					"Run in Terminal"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/customc++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/customc++.sublime-build",
+					"Run in Terminal"
+				]
+			],
+			[
+				"Packages/User/customc++.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Build With: customc++ - Run in Terminal"
+			],
+			[
+				"rel",
+				"Project: Refresh Folders"
+			],
+			[
+				"defa",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"the",
+				"Activate Materialize Theme"
+			],
+			[
+				"use ",
+				"UI: Select Theme"
+			],
+			[
+				"remvoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Activate Materialize Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 265.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft"
+	],
+	"file_history":
+	[
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Google/floodfill.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/minjumps.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/paranthesischecker.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/nextpalindrome.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/sum4.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/ngr.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/expresssum.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/maxproductsb.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/allpalindromes.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/booleanpara.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/minpointsdestination.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/unitarea.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/perfectsum.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/noofislands.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/palindromic.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/matrixchain.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/reorderlist.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/circulartour.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/connectnodes.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/boundarytraversal.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Microsoft/longestevensubstring.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/subtreessum.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/segmentedsieve.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/maxoverlap.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/painterpartition.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/sumpower.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/stringrotations.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/sortfreqsmall.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/sortfreq.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/longestuniquesubstring.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/output.txt",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/isSubTree.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/trie.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/maxintervals.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/User/cppcompletions.sublime-completions",
+		"/home/thunder/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/snakeladder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/paircubecount.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/goldpots.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/preorder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/mergesort.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/dijikstra.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/eq.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/pathexists.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/removeduplicates.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/diamaterbinarytree.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/repunits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/peakelement.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/winnerelection.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/heapsort.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/postinorder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/rightview.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/binarybst.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/inorder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/totalSetbits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/mergesortlinkedlist.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/primebits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/klargest.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/equilibrium.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Arrays/leaders.cpp"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"long long ",
+			"long long int",
+			"int",
+			"];\nint",
+			"];\n",
+			"currCount",
+			" ="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"int",
+			"long long ",
+			"long long int"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/snakeladder.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2100,
+								2100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2041.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/medianinstream.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								998,
+								998
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 858.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/sum4.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2125,
+								2125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1186.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Adobe/is3multiple.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1170,
+								1170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Oracle/mincoins.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1062,
+								1062
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 731.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/output.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.693963988459,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.402817200614,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 69.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/customc++.sublime-build",
+	"project": "companies.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Interview-Prep/SublimeProjects/faang.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 397.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

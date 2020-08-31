@@ -1,0 +1,6 @@
+n : 4
+curSum : -1
+curSum : 0
+curSum : -1
+curSum : 0
+maxLength : 4

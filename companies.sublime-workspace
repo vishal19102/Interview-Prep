@@ -1,0 +1,726 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nums",
+				"numsum"
+			],
+			[
+				"nus",
+				"numsum"
+			],
+			[
+				"nu",
+				"numsum"
+			],
+			[
+				"ve",
+				"vector<int> "
+			],
+			[
+				"left",
+				"leftcheck"
+			],
+			[
+				"right",
+				"rightmax"
+			],
+			[
+				"longest",
+				"longestSubstring"
+			],
+			[
+				"logne",
+				"longestSubstring"
+			],
+			[
+				"max",
+				"maxlength"
+			],
+			[
+				"rever",
+				"reverseLinkedList"
+			],
+			[
+				"vec",
+				"vector<int> "
+			],
+			[
+				"dp",
+				"dp2\tdp2"
+			],
+			[
+				"minx",
+				"findMinXor"
+			],
+			[
+				"in",
+				"input\tinput"
+			],
+			[
+				"INT_M",
+				"INT_MAX"
+			],
+			[
+				"com",
+				"comparetor"
+			],
+			[
+				"timi",
+				"timings"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"word",
+				"word2"
+			],
+			[
+				"freq",
+				"freqarray"
+			],
+			[
+				"veco",
+				"vector<int> "
+			],
+			[
+				"veoc",
+				"vector<string> "
+			],
+			[
+				"map",
+				"map<int,int> "
+			],
+			[
+				"create",
+				"CreateTree"
+			],
+			[
+				"rihg",
+				"rightSideView"
+			],
+			[
+				"vector",
+				"vector<int> "
+			],
+			[
+				"vecto",
+				"vector<int> "
+			],
+			[
+				"lca",
+				"lcaright"
+			],
+			[
+				"node",
+				"node1"
+			],
+			[
+				"Create",
+				"CreateTree"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "CompaniesMustDo/Qualcommm/missingnumber.cpp",
+			"settings":
+			{
+				"buffer_size": 1469,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CompaniesMustDo/Qualcommm/power2.cpp",
+			"settings":
+			{
+				"buffer_size": 1405,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CompaniesMustDo/Qualcommm/mindistance.cpp",
+			"settings":
+			{
+				"buffer_size": 2916,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CompaniesMustDo/Qualcommm/sort012.cpp",
+			"settings":
+			{
+				"buffer_size": 1430,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CompaniesMustDo/input.txt",
+			"settings":
+			{
+				"buffer_size": 13,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CompaniesMustDo/output.txt",
+			"settings":
+			{
+				"buffer_size": 2,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/customc++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/customc++.sublime-build",
+					"Run in Terminal"
+				]
+			],
+			[
+				"Packages/User/customc++.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mater",
+				"Activate Materialize Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"prefere",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"setting",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm"
+	],
+	"file_history":
+	[
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/lengthofloop.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/sort012.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/longestsubstring.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/removeloop.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/mergesort.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/quicksort.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/validateip.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/missingnumber.cpp",
+		"/home/thunder/Desktop/Interview-Prep/GeneralAlgorithms/segmentedsieve.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/remove",
+		"/home/thunder/.config/sublime-text-3/Packages/User/fileio.sublime-snippet",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/output.txt",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/combinations.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/segmenttrees.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/detectloop.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/binary_search.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/addtwonumbers.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/duplicates.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/checkbst.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/ouptut.txt",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/reverselinked.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/intersectionlinked.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/levelorder.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/evenbits0.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/User/print.sublime-snippet",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/singlenumber.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/reversebits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/strstr.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/countdiffbit.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/swapnibbles.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/setkthbit.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/Qualcommm/setbits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/CompaniesMustDo/leafunderbudget.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Greedy/largestnumber.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Greedy/maximisetoys.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Greedy/coins.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/DP/knapsack.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/DP/eggdropping.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Bits/kthbit.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Bits/rightmostdff.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Bits/firstbit.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Backtracking/sudoku.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Bits/totbits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Bits/output.txt",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/output.txt",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Bits/swapbits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Bits/rotate.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/Bits/countbits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/DP/minsumpartition.cpp",
+		"/home/thunder/Desktop/Interview-Prep/MustDo/DP/maxcut.cpp",
+		"/home/thunder/Desktop/Interview-Prep/InterviewBit/BIts/minxor.cpp",
+		"/home/thunder/Desktop/Interview-Prep/InterviewBit/BIts/noofbits.cpp",
+		"/home/thunder/Desktop/Interview-Prep/InterviewBit/BIts/lettercombinations.cpp",
+		"/home/thunder/Desktop/Interview-Prep/InterviewBit/BIts/subsets.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/DynamicProgramming/totpaths.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/DynamicProgramming/perfectsquare.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/DynamicProgramming/climbstairs.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/User/dp2.sublime-snippet",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/DynamicProgramming/lcs.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/DynamicProgramming/coinchange.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/DynamicProgramming/editdistance.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/DynamicProgramming/minpathsum.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/DynamicProgramming/targetgoku.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/DynamicProgramming/minsquares.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/output.txt",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/DynamicProgramming/output.txt",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Heaps/kthlargest.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/User/input.sublime-snippet",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/countzeros.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/attendmeating.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/countzeros.cppc",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/sunnybuildings.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/mostwater.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/targerzero.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/maxsumsbuarray.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/distributecandy.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/DynamicProgramming/chori.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/mxalengthsubar.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/trail.cpp",
+		"/home/thunder/.config/fusuma/config.yml",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/worddistance.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/kmostfrequent.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/longestsubstring.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/anagram.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/multiplesubarray.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Arrays/movezeros.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/duplicates2.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/inordersuccessor1.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/maxlevel.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/addrow.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/anagramstogether.cppc",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/pathsum.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/binarypathmaxsum.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/rightview.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/mergetrees.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/zigzag.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/mirror.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Hashing/duplicates.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/totalsubtreesum.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/connectnodes.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/postpre.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/prein.cpp",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/lcabt.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/thunder/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/thunder/Desktop/Interview-Prep/FAANG/Trees/lca.cpp",
+		"/home/thunder/.config/sublime-text-3/Packages/User/cppcompletions..sublime-completions",
+		"/home/thunder/.config/sublime-text-3/Packages/User/cpp.sublime-snippet",
+		"/home/thunder/.config/sublime-text-3/Packages/User/customc++.sublime-build"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CompaniesMustDo/Qualcommm/missingnumber.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1469,
+								1469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 983.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CompaniesMustDo/Qualcommm/power2.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1215,
+								1215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1367.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "CompaniesMustDo/Qualcommm/mindistance.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2916,
+								2916
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2704.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "CompaniesMustDo/Qualcommm/sort012.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								784,
+								784
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 759.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "CompaniesMustDo/input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "CompaniesMustDo/output.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 75.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.693195039112,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.435657156591,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 57.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/customc++.sublime-build",
+	"project": "companies.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Interview-Prep/SublimeProjects/afteracedmy.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

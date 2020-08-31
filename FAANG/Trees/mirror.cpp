@@ -53,32 +53,32 @@ void StringtoInt(){
 
 struct node
 {	
-	int data;
-	node* left, *right;
+	int val;
+	TreeNode* left, *right;
 	node(int d){
-		data = d;
+		val = d;
 		left=NULL;
 		right=NULL;
 	}
 };
 
-node* CreateTree(){
+TreeNode* CreateTree(){
 
 	if(nums.size()==0) return NULL;
 
 	int dt = nums[0];
 
-	node* root = new node(dt);
+	TreeNode* root = new node(dt);
 
 	int i = 1;
 
-	queue<node*> q ;
+	queue<TreeNode*> q ;
 
 	q.push(root);
 
 	while(!q.empty() && i < nums.size()) { 
 
-		node* temp = q.front() ; q.pop();
+		TreeNode* temp = q.front() ; q.pop();
 
 		int no = nums[i++];
 
@@ -107,16 +107,23 @@ node* CreateTree(){
 	return root;
 }
 
-bool isMirror(node* rootleft , node* rootright) {
+bool isMirror(TreeNode* rootleft , TreeNode* rootright) {
 
 	if(rootleft==NULL || rootright==NULL ) return rootleft == rootright ; 
 
-	if(rootleft->data != rootright->data ) return false ; 
+	if(rootleft->val != rootright->val ) return false ; 
 
 	bool leftans = isMirror(rootleft->left , rootright->right );
 	bool rightans = isMirror(rootleft->right , rootright->left );
 
 	return leftans && rightans ;
+}
+
+int isSymmetric(TreeTreeNode* A) {
+	if(tree == NULL ) return 1 ;
+	else 
+		if(isMirror(tree , tree)) return 1;
+		else return 0 ;
 }
 
 
@@ -132,10 +139,7 @@ int main(){
     cin.getline(a , 100000);
     StringtoInt();
     //for(auto i : nums ) trace(i);
-    node* tree = CreateTree();
-    if(tree == NULL ) cout<<"YES"<<endl;
-	else 
-		if(isMirror(tree , tree)) cout<<"YES"<<endl;
-		else cout<<"NO"<<endl;
+    TreeNode* tree = CreateTree();
+    
     return 0;
 }
